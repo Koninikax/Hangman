@@ -1,2 +1,2 @@
 # Hangman
-A simple implementation of hangman
+A simple implementation of hangman using python
